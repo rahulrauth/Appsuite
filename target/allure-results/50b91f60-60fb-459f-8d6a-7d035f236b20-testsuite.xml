@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1622388944935" stop="1622389107575" version="1.4.11" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Command line suite : Command line test</name>
+    <title>Command line suite : Command line test</title>
+    <test-cases>
+        <test-case start="1622388944950" stop="1622388944956" status="passed">
+            <name>testApp</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="rahul-B450M-DS3H-WIFI"/>
+                <label name="thread" value="15830@rahul-B450M-DS3H-WIFI.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1622388944997" stop="1622389107558" status="passed">
+            <name>CheckLoanActiveCase</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="rahul-B450M-DS3H-WIFI"/>
+                <label name="thread" value="15830@rahul-B450M-DS3H-WIFI.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

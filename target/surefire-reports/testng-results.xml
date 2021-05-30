@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="162630" started-at="2021-05-30T15:35:44Z" finished-at="2021-05-30T15:38:27Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="162630" started-at="2021-05-30T15:35:44Z" finished-at="2021-05-30T15:38:27Z">
+      <class name="com.andriod.mob.TestSuite">
+        <test-method status="PASS" signature="CheckLoanActiveCase()[pri:0, instance:com.andriod.mob.TestSuite@2c78324b]" name="CheckLoanActiveCase" duration-ms="162563" started-at="2021-05-30T11:35:44Z" finished-at="2021-05-30T11:38:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckLoanActiveCase -->
+      </class> <!-- com.andriod.mob.TestSuite -->
+      <class name="com.andriod.mob.AppTest">
+        <test-method status="PASS" signature="testApp()[pri:0, instance:com.andriod.mob.AppTest@3214ee6]" name="testApp" duration-ms="12" started-at="2021-05-30T11:35:44Z" finished-at="2021-05-30T11:35:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApp -->
+      </class> <!-- com.andriod.mob.AppTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
